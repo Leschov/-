@@ -1,0 +1,66 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+   int n;
+   n = 1;
+    for (int i = 1; i < 11; ++i)
+    cout << n << "*" << i << "=" << n * i << endl;
+    cout << endl;
+   int m;
+    m = 2;
+    for (int i = 1; i < 11; ++i)
+    cout << m << "*" << i << "=" << m * i << endl;
+    cout << endl;
+
+    int j;
+    j = 3;
+    for (int i = 1; i < 11; ++i)
+    cout << j << "*" << i << "=" << j * i << endl;
+    cout << endl;
+
+    int p;
+    p = 4;
+    for (int i = 1; i < 11; ++i)
+    cout << p << "*" << i << "=" << p * i << endl;
+    cout << endl;
+
+    int z;
+    z = 5;
+    for (int i = 1; i < 11; ++i)
+    cout << z << "*" << i << "=" << z * i << endl;
+    cout << endl;
+
+    int x;
+    x = 6;
+    for (int i = 1; i < 11; ++i)
+    cout << x << "*" << i << "=" << x * i << endl;
+    cout << endl;
+
+    int c;
+    c = 7;
+    for (int i = 1; i < 11; ++i)
+    cout << c << "*" << i << "=" << c * i << endl;
+    cout << endl;
+
+    int v;
+    v = 8;
+    for (int i = 1; i < 11; ++i)
+    cout << v << "*" << i << "=" << v * i << endl;
+    cout << endl;
+
+    int b;
+    b = 9;
+    for (int i = 1; i < 11; ++i)
+    cout << b << "*" << i << "=" << b * i << endl;
+    cout << endl;
+
+    int q;
+    q = 10;
+    for (int i = 1; i < 11; ++i)
+    cout << q << "*" << i << "=" << q * i << endl;
+    cout << endl;
+
+ return 0;   
+}
+
